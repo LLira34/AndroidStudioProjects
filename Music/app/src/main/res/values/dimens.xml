@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_button">170dp</dimen>
+    <dimen name="tam_letter_song">10pt</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <!-- Dimen to buttons screen main. -->
+    <dimen name="width_button_main">220dp</dimen>
+
+    <!-- Dimens to splash screen. -->
+    <dimen name="bottom_splash">320dp</dimen>
+    <dimen name="top_splash">360dp</dimen>
+
+    <!-- Elements basics. -->
+    <dimen name="basic_dp_1">1dp</dimen>
+    <dimen name="basic_dp_3">3dp</dimen>
+    <dimen name="basic_px_30">30px</dimen>
+    <dimen name="basic_sp_28">28sp</dimen>
+</resources>

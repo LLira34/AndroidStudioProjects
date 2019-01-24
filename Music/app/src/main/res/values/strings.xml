@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music</string>
+    <!-- Song -->
+    <string name="type_name">Type name</string>
+    <string name="type_artist">Type artist</string>
+    <string name="type_album">Type album</string>
+    <string name="save_song">Save song</string>
+    <string name="year">Year</string>
+    <string name="duration">Duration</string>
+
+</resources>

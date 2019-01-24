@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/colorWhite"/>
+    <item android:bottom="@dimen/bottom_splash">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/img_splash_wes"/>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/pene"/>
+    </item>
+    <item android:top="@dimen/top_splash">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/img_splash_copyright"/>
+    </item>
+</layer-list>
